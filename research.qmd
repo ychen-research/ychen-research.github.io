@@ -1,0 +1,14 @@
+---
+title: "Active Projects"
+page-layout: full
+listing:
+  contents: projects
+  type: grid
+  grid-columns: 1
+  fields: [title, description]
+  sort: "date desc"
+  image-align: left
+  categories: false
+---
+
+My current work focuses on supporting children and families experiencing structural and social inequities, including poverty and language barriers, through universal primary prevention programs.

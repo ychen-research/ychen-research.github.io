@@ -1,0 +1,32 @@
+---
+title: "Yu (Tina) Chen, Ph.D."
+about:
+  id: hero-heading
+  template: jolla
+  image: imgs/Headshot_front.jpg
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:tchen9489@gmail.com
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=6GdibwEAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/tina-chen-childdev
+---
+
+::: {#hero-heading}
+**Postdoctoral Fellow**- NYU Grossman School of Medicine
+
+My research broadly investigates how children's early environments influence their school readiness. I seek to understand the variability in young children’s home environment, including early relational health and parental investment, and its contribution to language and cognitive skills. Additionally, I study the mechanisms through which enhancing protective factors and/or alleviating risk factors in children’s proximal and distal environments influences developmental outcomes. I integrate quantitative and qualitative methods from psychology, human development, and clinical research to study these questions. A primary goal of my research is to **inform the development and implementation of novel, effective, and scalable prevention programs for supporting healthy outcomes in young children experiencing structural and social inequities**.
+
+Prior to joining NYU, I received a Ph.D. degree in Human Development from the University of Maryland-College Park.
+:::
+
+## Recent News
+
+- **June 2026 \| Paper published in Child Development:** Parenting intervention reduces the association between neighborhood disorder and screen time in infancy.
+- **April 2026 \| Paper published in Journal of Pediatrics:** Parenting intervention promotes child mental health by enhancing cognitive stimulation at home.
+- **March 2026 \| SRCD Emeritus Mentorship Program:** Selected as an early career mentee, mentored by Dr. Linda Baker, Professor Emerita of Psychology at the University of Maryland Baltimore County.
