@@ -2,3 +2,8 @@ Website.Rproj
 docs/
 _site/
 .DS_Store
+.Rproj.user
+.Rhistory
+
+/.quarto/
+**/*.quarto_ipynb
